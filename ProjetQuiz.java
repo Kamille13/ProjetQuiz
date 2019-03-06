@@ -21,12 +21,20 @@ class ProjetQuiz {
         String [] question2 = new String [] {"Qui est le meilleur personnage de Smash Bros ?","B","A . Kirby","B . Capitain Falcon","C . Samus","D . Ness"};
         String [] question3 = new String [] {"Qui est le boss final de Mortal Kombat ?","D","A . Scorpion","B . Raiden","C . Sub-Zero","D . Goro"};
         String [] question4 = new String [] {"Comment s'appelle la route multicolor sur Mario Kart ?","A","A . Arc-en-ciel","B . Ile Choco","C . Plaine Donut","D . Château de Bowser"};                                        
-		
+		String [] question5 = new String [] {"Quel est le nom de code de la Nintendo64 ? ","A","A . ProjectReality ","B . GameBox","C . NintendoFirst","D . VirtualCube"};
+        String [] question6 = new String [] {"Quel est le premier jeu James Bond sur Nintendo64 ? ","B","A . The world is not enough","B . Golden eye","C . Espion pour cible","D . Blood Stone"};
+        String [] question7 = new String [] {"Quel jeu à était le plus vendu sur la console ?","D","A . Zelda : Ocarina of time","B . MarioKart64","C . Pokemon Stadium","D . SuperMario64"};
+        String [] question8 = new String [] {"Quel est la génération de cette console ?","B","A . Premiére génération","B . Cinquiéme","C . Troisiéme","D . Septiéme"};
+
         String[][] question = new String[][] {
             question1,
             question2,
             question3,
-            question4
+            question4,
+            question5,
+            question6,
+            question7,
+            question8
         };
 
         
